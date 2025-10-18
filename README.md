@@ -6,7 +6,7 @@ You can find more about me on my website https://ethauber.github.io and connect 
 
 ## ✨ My Work
 
-My professional experience involves building and deploying robust backend systems, creating full-stack notification and data processing pipelines, and integrating AI/LLM features. I leverage technologies like AWS Lambda, Step Functions, SQS, Glue, LangChain, and various databases to build scalable and efficient applications. You can explore more on that by visting my [LinkedIn](https://www.linkedin.com/in/ethauber).
+My professional experience involves building and deploying robust backend systems, creating full-stack notification and data processing pipelines, and integrating AI/LLM features. I leverage technologies like AWS Lambda, Step Functions, SQS, Glue, LangChain, and various databases to build scalable and efficient applications. Learn more about my work and connect with me through my website [![ethauber.github.io](https://img.shields.io/badge/ethauber.github.io-ffc107?logo=buymeacoffee&logoColor=fff)](https://ethauber.github.io) and [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?ogo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethauber).
 
 ## 🏆 Certifications
 
